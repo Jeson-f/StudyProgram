@@ -52,6 +52,7 @@ div:first-child {
     -ms-transition: box-shadow 1s;
     -o-transition: box-shadow 1s;
     transition: box-shadow 1s;
+
 }
 div:first-child:hover{
     -webkit-box-shadow: 6px 6px 3px rgba(167,167,167,0.13);
