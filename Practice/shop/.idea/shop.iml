@@ -12,5 +12,6 @@
     <orderEntry type="library" name="jquery-2.1.4" level="application" />
     <orderEntry type="library" name="velocity" level="application" />
     <orderEntry type="library" name="uikit" level="application" />
+    <orderEntry type="library" name="jquery" level="application" />
   </component>
 </module>

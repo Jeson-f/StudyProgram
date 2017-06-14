@@ -1,7 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3fca683e-c3e2-49e7-90e7-50603cf0a1ef" name="默认的" comment="" />
+    <list default="true" id="3fca683e-c3e2-49e7-90e7-50603cf0a1ef" name="默认的" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/javascript.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/shop.iml" afterPath="$PROJECT_DIR$/.idea/shop.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/accordion.js" afterPath="$PROJECT_DIR$/js/components/accordion.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/accordion.min.js" afterPath="$PROJECT_DIR$/js/components/accordion.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/autocomplete.js" afterPath="$PROJECT_DIR$/js/components/autocomplete.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/autocomplete.min.js" afterPath="$PROJECT_DIR$/js/components/autocomplete.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/datepicker.js" afterPath="$PROJECT_DIR$/js/components/datepicker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/datepicker.min.js" afterPath="$PROJECT_DIR$/js/components/datepicker.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/form-password.js" afterPath="$PROJECT_DIR$/js/components/form-password.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/form-password.min.js" afterPath="$PROJECT_DIR$/js/components/form-password.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/form-select.js" afterPath="$PROJECT_DIR$/js/components/form-select.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/form-select.min.js" afterPath="$PROJECT_DIR$/js/components/form-select.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/grid-parallax.js" afterPath="$PROJECT_DIR$/js/components/grid-parallax.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/grid-parallax.min.js" afterPath="$PROJECT_DIR$/js/components/grid-parallax.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/grid.js" afterPath="$PROJECT_DIR$/js/components/grid.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/grid.min.js" afterPath="$PROJECT_DIR$/js/components/grid.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/htmleditor.js" afterPath="$PROJECT_DIR$/js/components/htmleditor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/htmleditor.min.js" afterPath="$PROJECT_DIR$/js/components/htmleditor.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/lightbox.js" afterPath="$PROJECT_DIR$/js/components/lightbox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/lightbox.min.js" afterPath="$PROJECT_DIR$/js/components/lightbox.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/nestable.js" afterPath="$PROJECT_DIR$/js/components/nestable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/nestable.min.js" afterPath="$PROJECT_DIR$/js/components/nestable.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/notify.js" afterPath="$PROJECT_DIR$/js/components/notify.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/notify.min.js" afterPath="$PROJECT_DIR$/js/components/notify.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/pagination.js" afterPath="$PROJECT_DIR$/js/components/pagination.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/pagination.min.js" afterPath="$PROJECT_DIR$/js/components/pagination.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/parallax.js" afterPath="$PROJECT_DIR$/js/components/parallax.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/parallax.min.js" afterPath="$PROJECT_DIR$/js/components/parallax.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/search.js" afterPath="$PROJECT_DIR$/js/components/search.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/search.min.js" afterPath="$PROJECT_DIR$/js/components/search.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/slider.js" afterPath="$PROJECT_DIR$/js/components/slider.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/slider.min.js" afterPath="$PROJECT_DIR$/js/components/slider.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/slideset.js" afterPath="$PROJECT_DIR$/js/components/slideset.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/slideset.min.js" afterPath="$PROJECT_DIR$/js/components/slideset.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/slideshow-fx.js" afterPath="$PROJECT_DIR$/js/components/slideshow-fx.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/slideshow-fx.min.js" afterPath="$PROJECT_DIR$/js/components/slideshow-fx.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/slideshow.js" afterPath="$PROJECT_DIR$/js/components/slideshow.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/slideshow.min.js" afterPath="$PROJECT_DIR$/js/components/slideshow.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/sortable.js" afterPath="$PROJECT_DIR$/js/components/sortable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/sortable.min.js" afterPath="$PROJECT_DIR$/js/components/sortable.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/sticky.js" afterPath="$PROJECT_DIR$/js/components/sticky.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/sticky.min.js" afterPath="$PROJECT_DIR$/js/components/sticky.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/timepicker.js" afterPath="$PROJECT_DIR$/js/components/timepicker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/timepicker.min.js" afterPath="$PROJECT_DIR$/js/components/timepicker.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/tooltip.js" afterPath="$PROJECT_DIR$/js/components/tooltip.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/tooltip.min.js" afterPath="$PROJECT_DIR$/js/components/tooltip.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/upload.js" afterPath="$PROJECT_DIR$/js/components/upload.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/components/upload.min.js" afterPath="$PROJECT_DIR$/js/components/upload.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/alert.js" afterPath="$PROJECT_DIR$/js/core/alert.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/alert.min.js" afterPath="$PROJECT_DIR$/js/core/alert.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/button.js" afterPath="$PROJECT_DIR$/js/core/button.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/button.min.js" afterPath="$PROJECT_DIR$/js/core/button.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/core.js" afterPath="$PROJECT_DIR$/js/core/core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/core.min.js" afterPath="$PROJECT_DIR$/js/core/core.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/cover.js" afterPath="$PROJECT_DIR$/js/core/cover.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/cover.min.js" afterPath="$PROJECT_DIR$/js/core/cover.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/dropdown.js" afterPath="$PROJECT_DIR$/js/core/dropdown.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/dropdown.min.js" afterPath="$PROJECT_DIR$/js/core/dropdown.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/grid.js" afterPath="$PROJECT_DIR$/js/core/grid.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/grid.min.js" afterPath="$PROJECT_DIR$/js/core/grid.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/modal.js" afterPath="$PROJECT_DIR$/js/core/modal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/modal.min.js" afterPath="$PROJECT_DIR$/js/core/modal.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/nav.js" afterPath="$PROJECT_DIR$/js/core/nav.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/nav.min.js" afterPath="$PROJECT_DIR$/js/core/nav.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/offcanvas.js" afterPath="$PROJECT_DIR$/js/core/offcanvas.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/offcanvas.min.js" afterPath="$PROJECT_DIR$/js/core/offcanvas.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/scrollspy.js" afterPath="$PROJECT_DIR$/js/core/scrollspy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/scrollspy.min.js" afterPath="$PROJECT_DIR$/js/core/scrollspy.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/smooth-scroll.js" afterPath="$PROJECT_DIR$/js/core/smooth-scroll.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/smooth-scroll.min.js" afterPath="$PROJECT_DIR$/js/core/smooth-scroll.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/switcher.js" afterPath="$PROJECT_DIR$/js/core/switcher.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/switcher.min.js" afterPath="$PROJECT_DIR$/js/core/switcher.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/tab.js" afterPath="$PROJECT_DIR$/js/core/tab.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/tab.min.js" afterPath="$PROJECT_DIR$/js/core/tab.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/toggle.js" afterPath="$PROJECT_DIR$/js/core/toggle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/toggle.min.js" afterPath="$PROJECT_DIR$/js/core/toggle.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/touch.js" afterPath="$PROJECT_DIR$/js/core/touch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/touch.min.js" afterPath="$PROJECT_DIR$/js/core/touch.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/utility.js" afterPath="$PROJECT_DIR$/js/core/utility.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/core/utility.min.js" afterPath="$PROJECT_DIR$/js/core/utility.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/uikit.js" afterPath="$PROJECT_DIR$/js/uikit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/uikit.min.js" afterPath="$PROJECT_DIR$/js/uikit.min.js" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,15 +108,15 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="25" column="37" lean-forward="false" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+            <state relative-caret-position="123">
+              <caret line="8" column="66" lean-forward="true" selection-start-line="8" selection-start-column="66" selection-end-line="9" selection-end-column="64" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="uikit.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/uikit.css">
+      <file leaf-file-name="slidenav.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/components/slidenav.min.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -35,11 +125,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
+      <file leaf-file-name="dotnav.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/components/dotnav.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            <state relative-caret-position="18">
+              <caret line="1" column="400" lean-forward="false" selection-start-line="1" selection-start-column="400" selection-end-line="1" selection-end-column="400" />
               <folding />
             </state>
           </provider>
@@ -52,6 +142,7 @@
       <list>
         <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -68,10 +159,21 @@
       <find>300</find>
       <find>3007</find>
       <find>slider</find>
+      <find>uk-dotnav</find>
+      <find>uk-position-bottom</find>
+      <find>tm-grid-colors</find>
+      <find>uk-slidenav-position</find>
+      <find>.uk-dotnav&gt;*&gt;*</find>
+      <find>.uk-dotnav</find>
+      <find>.uk-flex-center</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -84,6 +186,8 @@
         <option value="$PROJECT_DIR$/css/unslider.css" />
         <option value="$PROJECT_DIR$/js/components/autocomplete.js" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/css/components/style.css" />
+        <option value="$PROJECT_DIR$/css/uikit.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -101,10 +205,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="236" />
-    <option name="y" value="94" />
-    <option name="width" value="1526" />
-    <option name="height" value="891" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="797" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -129,6 +232,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -144,6 +248,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -215,6 +320,10 @@
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uikit.gradient.css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -247,15 +356,50 @@
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="components" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="autocomplete.gradient.css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -264,6 +408,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -348,6 +498,12 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="StructuralSearchPlugin">
+    <searchConfiguration name="user defined" created="1497450681568" text="uk-dotnav" recursive="true" caseInsensitive="true" type="CSS" history="1" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="3fca683e-c3e2-49e7-90e7-50603cf0a1ef" name="默认的" comment="" />
@@ -359,11 +515,13 @@
       <workItem from="1497402484549" duration="4849000" />
       <workItem from="1497407688538" duration="10817000" />
       <workItem from="1497428347556" duration="6046000" />
+      <workItem from="1497449758657" duration="51000" />
+      <workItem from="1497449834004" duration="2050000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27567000" />
+    <option name="totallyTimeSpent" value="29668000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -375,19 +533,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="236" y="94" width="1526" height="891" extended-state="1" />
+    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24916051" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24876674" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3192848" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32768363" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24966888" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -396,8 +554,8 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -440,7 +598,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -448,6 +606,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$3/index.html" />
     <entry file="file://$PROJECT_DIR$/../unslider-150203225543/index.html" />
     <entry file="file://$PROJECT_DIR$/js/javascript.js">
@@ -468,24 +635,12 @@
     <entry file="file://$PROJECT_DIR$/js/javascript1.js" />
     <entry file="file://$PROJECT_DIR$/css/mobile.css" />
     <entry file="file://$PROJECT_DIR$/css/site.css" />
-    <entry file="file://$PROJECT_DIR$/css/reset.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-193">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/css/reset.css" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$2/mobile.css" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$1/index.html" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$3/index.html" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$6/index.html" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.bootcss.com_unslider_2.0.3_js_unslider-min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdn.bootcss.com_unslider_2.0.3_js_unslider-min.js" />
     <entry file="file://$PROJECT_DIR$/../unslider-150203225543/index.html" />
     <entry file="file://$PROJECT_DIR$/js/javascript.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -497,21 +652,12 @@
     <entry file="file://$PROJECT_DIR$/index1.html" />
     <entry file="file://$PROJECT_DIR$/index.htm.html" />
     <entry file="file://$PROJECT_DIR$/css/unslider-dots.css" />
-    <entry file="file://$PROJECT_DIR$/../map.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../map.js" />
     <entry file="file://$PROJECT_DIR$/css/unslider.css" />
     <entry file="file://$PROJECT_DIR$/js/components/autocomplete.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-30">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -519,22 +665,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <marker date="1455693102000" expanded="true" signature="6494:6517" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/css/uikit.min.css" />
     <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/uikit.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -542,7 +678,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/uikit.gradient.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/uikit.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/uikit.almost-flat.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/components/slidenav.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/components/dotnav.gradient.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/components/autocomplete.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/components/dotnav.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/components/dotnav.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="400" lean-forward="false" selection-start-line="1" selection-start-column="400" selection-end-line="1" selection-end-column="400" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/components/slidenav.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -552,8 +752,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="25" column="37" lean-forward="false" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+        <state relative-caret-position="123">
+          <caret line="8" column="66" lean-forward="true" selection-start-line="8" selection-start-column="66" selection-end-line="9" selection-end-column="64" />
           <folding />
         </state>
       </provider>
